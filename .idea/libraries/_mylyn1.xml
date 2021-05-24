@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name=".mylyn1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hangman-Project-master/out/production/Hangman-Project-master/.metadata/.mylyn/tasks.xml.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Hangman-Project-master/out/production/Hangman-Project-master/.metadata/.mylyn/repositories.xml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
